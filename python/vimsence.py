@@ -19,8 +19,7 @@ base_activity = {
 client_id = '696081390395064450'
 
 has_thumbnail = [
-    'c', 'cr', 'hs', 'json', 'nim', 'ruby', 'cpp', 'go', 'javascript', 'markdown',
-    'typescript', 'python', 'vim', 'rust', 'css', 'html', 'vue'
+    'python', 'elixir'
 ]
 # Remaps file types to specific icons.
 remap = { 
